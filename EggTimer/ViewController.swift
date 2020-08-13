@@ -5,7 +5,7 @@ class ViewController: UIViewController {
     
     @IBOutlet var label: UILabel!
     
-    let eggTime = ["Soft": 7 ,"Medium": 420 , "Hard": 720]
+    let eggTime = ["Soft": 360 ,"Medium": 420 , "Hard": 720]
     var secondsRemaining = 60
     var timer = Timer()
     
